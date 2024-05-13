@@ -1,0 +1,8 @@
+1,sua,thucuong,2000.0,89
+2,tieu,giavi,5000.0,40
+3,chuoi,traicay,10000.0,30
+4,com,thucan,15000.0,10
+5,coca,thucuong,2000.0,80
+6,duong,giavi,5000.0,20
+7,cam,traicay,10000.0,20
+8,mi,thucan,5000.0,100
